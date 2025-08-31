@@ -45,5 +45,16 @@ To build a **financial dashboard** that provides visibility into:
 
 ---
 
-## 📸 Dashboard Screenshot  
+## 📸 Dashboard Screenshots  
+
+### Customer Report  
+<p align="center">
+  <img src="Customer Report.png" alt="Customer Report" width="800"/>
+</p>  
+
+### Credit Card Transaction Report  
+<p align="center">
+  <img src="Credit Card Transaction Report.png" alt="Transaction Report" width="800"/>
+</p>  
+
 
